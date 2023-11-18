@@ -41,9 +41,9 @@ import ModalVue from '../components/Modal.vue';
         <img class="-z-10 absolute top-0 -left-24 lg:-left-60 w-[600px] h-auto" src="/img/shadow1.svg" alt="shadow image">
         <div>
             <h2 class="font-semibold text-xs md:text-sm">Hello everyone!</h2>
-            <span class="block text-[42px] md:text-[65px] font-bold">I'm </span>
-            <img class="mt-1 z-20" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=60&pause=1000&color=0DB1E3&vCenter=true&random=false&width=550&height=60&lines=Christoper;Frontend+developer;Designer;Backend+developer" alt="about image">
-            <img class="mt-5 z-20" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=40&pause=1000&vCenter=true&random=false&height=60&lines=Christopher+;Backend+developer;Designer+;Frontend+developer" alt="">
+            <span class="block text-[39px] md:text-[65px] font-bold">I'm </span>
+            <img class="hidden md:block mt-1 z-20" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=60&pause=1000&color=0DB1E3&vCenter=true&random=false&width=550&height=60&lines=Christoper;Frontend+developer;Designer;Backend+developer" alt="about image">
+            <img class="md:hidden z-20 -mt-1" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=40&pause=1000&vCenter=true&random=false&height=60&lines=Christopher+;Backend+developer;Designer+;Frontend+developer" alt="">
             <p class="mt-3 font-medium">I'm a passionate web development, Frontend | Backend.</p>
            <div class="mt-5 flex items-center gap-3 md:gap-5">
             <RouterLink :to="{name: 'contact'}">
