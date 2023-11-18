@@ -8,7 +8,6 @@
             <svg xmlns="http://www.w3.org/2000/svg" class="fill-current w-8 h-auto" viewBox="0 0 24 24"><path d="M20 3H4c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h16c1.103 0 2-.897 2-2V5c0-1.103-.897-2-2-2zM4 19V7h16l.002 12H4z"></path><path d="M9.293 9.293 5.586 13l3.707 3.707 1.414-1.414L8.414 13l2.293-2.293zm5.414 0-1.414 1.414L15.586 13l-2.293 2.293 1.414 1.414L18.414 13z"></path></svg>
             <span>Projects</span>
         </h2>
-        <img class="z-20" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=60&pause=1000&color=0DB1E3&vCenter=true&random=false&width=550&height=60&lines=Christoper;Frontend+developer;Designer;Backend+developer" alt="about image">
 
         <section class="mt-10 flex flex-col md:flex-row items-center justify-between gap-10 group">
             <a href="https://novaguitar-frontend.vercel.app/" target="_blank" class="w-full md:w-1/2 rounded-xl bg-slate-400 dark:bg-slate-700 transition-colors duration-200 h-44 md:h-60 relative overflow-hidden">
