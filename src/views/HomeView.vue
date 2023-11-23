@@ -84,7 +84,7 @@ import ModalVue from '../components/Modal.vue';
                     </ol>
                 </div>
                 <div class="w-full md:w-1/2">
-                    <h3 class="mb-10 font-bold text-xl text-center">• Technologies and kills</h3>
+                    <h3 class="mb-10 font-bold text-xl text-center">• Technologies and Skills</h3>
                     <h4 class=" opacity-50 font-semibold text-center">• Frontend</h4>
                     <div class="mt-8 grid grid-cols-3 gap-8 w-full px-4 md:px-10">
                         <div v-for="logo in logos" :key="logo.id" class="w-full flex items-center justify-center relative group">
