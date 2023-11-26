@@ -106,7 +106,7 @@ const isOpen = ref(false);
         </ul>
     </nav>
     <div class="mt-10 flex items-center justify-center gap-4">
-        <a href="https://www.linkedin.com/in/christopher-pati%C3%B1o-a27b95263/" target="_blank" class="hover:translate-y-[-3px] transition-all duration-500">
+        <a href="https://www.linkedin.com/in/christoper-pati%C3%B1o-a27b95263/" target="_blank" class="hover:translate-y-[-3px] transition-all duration-500">
             <img class="w-[25px] h-auto" src="/img/linkedin-image.svg" alt="linkedin image">
         </a>
         <a href="https://github.com/ChristopherDevv" target="_blank" class="hover:translate-y-[-3px] transition-all duration-500">

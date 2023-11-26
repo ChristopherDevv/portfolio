@@ -35,7 +35,7 @@ const handleSend = handleSubmit(() => {
             <h3 class="font-bold text-3xl">Get in touch</h3>
             <p class="mt-5 opacity-70">I'm currently avaliable to take on new projects, so feel free to send me a message about anything that you want to run past me. You can contact anytime at 24/7</p>
             <div class="mt-5 flex items-center gap-3">
-                <a href="https://www.linkedin.com/in/christopher-pati%C3%B1o-a27b95263/" target="_blank" class="inline-flex items-center justify-center gap-1 font-semibold py-2 px-3 md:px-4 rounded-lg border-2 border-slate-200 hover:border-slate-300 dark:border-slate-700 dark:hover:border-slate-600 transition-all duration-200">
+                <a href="https://www.linkedin.com/in/christoper-pati%C3%B1o-a27b95263/" target="_blank" class="inline-flex items-center justify-center gap-1 font-semibold py-2 px-3 md:px-4 rounded-lg border-2 border-slate-200 hover:border-slate-300 dark:border-slate-700 dark:hover:border-slate-600 transition-all duration-200">
                     <img class="w-5 md:w-6 h-auto" src="/img/linkedin-image.svg" alt="linkedin image">
                     <span class="text-[#0288D1] text-xs md:text-base">Linkedin</span>
                 </a>
