@@ -76,7 +76,7 @@ function openModal() {
                             <span class="text-xs font-semibold">Available</span>
                         </div>
                     </div>
-                    <a href="https://1drv.ms/b/s!AlY2aFiiVpUPnGeWGrE7paUppPIl?e=QUde5n" target="_blank">
+                    <a href="https://1drv.ms/b/s!AlY2aFiiVpUPnHztbh_IO9gWHPES?e=4q0iIt" target="_blank">
                       <button @click="closeModal" type="button" class="inline-flex items-center justify-center gap-2 px-4 py-2 rounded-full bg-blue-500 bg-opacity-20 hover:bg-opacity-30 transition-all duration-500">
                           <svg xmlns="http://www.w3.org/2000/svg" class="fill-current w-4 h-auto text-blue-500" viewBox="0 0 24 24"><path d="M6 22h13a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h1zm6-17.001c1.647 0 3 1.351 3 3C15 9.647 13.647 11 12 11S9 9.647 9 7.999c0-1.649 1.353-3 3-3zM6 17.25c0-2.219 2.705-4.5 6-4.5s6 2.281 6 4.5V18H6v-.75z"></path></svg>
                           <span class="text-xs font-semibold text-blue-500">See CV</span>
